@@ -13,7 +13,7 @@ public class Main2 {
 
         boolean flag=true; // Flag de controle do while
 
-        while(flag=true){
+        while(flag){
             System.out.println("--- BEM VINDO "+escola.nome+" ---");
             System.out.println("1 - Cadastrar estudantes");
             System.out.println("2 - Mostrar as informações dos estudantes");
